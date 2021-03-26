@@ -1,0 +1,6 @@
+
+ [   { "id":1,"id_penjualan":"Pen01","id_karyawan":"Kar01","id_cus":"CUS01","id_barang":"BAR-01" ,"nama_barang":"Indomie Rebus","tanggal":"03/03/2021", "harga":2000, "jumlah":3,"total_harga":6000 },
+    { "id":2,"id_penjualan":"Pen02","id_karyawan":"Kar01", "id_cus":"CUS01","id_barang":"BAR-02" ,"nama_barang":"Indomie Goreng","tanggal":"05/03/2021", "harga":2000, "jumlah":4,"total_harga":12 },
+    { "id":3,"id_penjualan":"Pen03","id_karyawan":"Kar01", "id_cus":"CUS01","id_barang":"BAR-03" ,"nama_barang":"Minyak Goreng","tanggal":"06/03/2021", "harga":3000, "jumlah":3,"total_harga":9000},
+    { "id":4,"id_penjualan":"Pen04","id_karyawan":"Kar01", "id_cus":"CUS01", "id_barang":"BAR-03","nama_barang":"Sarden Kaleng","tanggal":"07/03/2021", "harga":3000, "jumlah":3,"total_harga":9000 }
+ ]

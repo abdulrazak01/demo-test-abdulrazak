@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "id_customer":"CUS01",
+        "name": "Rice Jochens",
+        "email": "rjochens0@phpbb.com",
+        "phone": "686-20-1067",
+        "address": "5119 Carey Road",
+        "status": "Silver"
+    },
+    {
+        "id": 2,
+        "id_customer":"CUS02",
+        "name": "Darby Burgisi",
+        "email": "dburgisi1@ed.gov",
+        "phone": "343-52-3424",
+        "address": "4 Lerdahl Plaza",
+        "status": "Silver"
+    },
+    {
+        "id": 3,
+        "id_customer":"CUS03",
+        "name": "Melodee Pharaoh",
+        "email": "mpharaoh2@twitter.com",
+        "phone": "335-11-7024",
+        "address": "762 Coleman Parkway",
+        "status": "Platinum"
+    },
+    {
+        "id": 4,
+        "name": "Turner Scarse",
+        "id_customer":"CUS04",
+        "email": "tscarse3@ihg.com",
+        "phone": "479-28-1843",
+        "address": "0 Kedzie Road",
+        "status": "Silver"
+    }
+]

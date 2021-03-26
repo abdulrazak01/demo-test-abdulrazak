@@ -1,0 +1,7 @@
+[
+    { "id":1, "code":"BEL01", "name":"Indomie Rebus", "price":2000, "quantity":2 },
+    { "id":2, "code":"BEL02", "name":"Indomie Goreng", "price":2000, "quantity":3  },
+    { "id":3, "code":"BEL03", "name":"Minyak Goreng", "price":3000, "quantity":17 },
+    { "id":4, "code":"BEL04", "name":"Sarden Kaleng", "price":3000, "quantity":15 }
+   
+]
